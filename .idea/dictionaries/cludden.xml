@@ -3,6 +3,7 @@
     <words>
       <w>bcrypt</w>
       <w>crypto</w>
+      <w>kraken</w>
     </words>
   </dictionary>
 </component>
